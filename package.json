@@ -1,0 +1,24 @@
+{
+  "name": "lab-17-tcp-server-message-application",
+  "version": "1.0.0",
+  "description": "* [submission PR](http://xyz.com)\r * [travis](http://xyz.com)\r * [back-end](http://xyz.com) (when applicable)\r * [front-end](http://xyz.com) (when applicable)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application.git"
+  },
+  "author": "Adrienne Easton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application#readme",
+  "dependencies": {
+    "util": "^0.12.1",
+    "uuid": "^3.3.2"
+  }
+}
