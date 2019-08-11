@@ -9,40 +9,25 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application/pull/2)
 * [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+#### server.js
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+#### logger.js
 
-###### `bar(array) -> array`
-Usage Notes or examples
+#### app.js
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* npm i
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* node server.js
+* node logger.js
+* node app.js (file path)
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* npm test
 
 #### UML
 ![UML](./assets/tcpserver.jpg)
