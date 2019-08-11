@@ -7,8 +7,8 @@
 ### Author: Adrienne Easton with some mob programming
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application/pull/2)
+* [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
