@@ -19,6 +19,6 @@
   "homepage": "https://github.com/401-advanced-javascript-aeaston/lab-17-tcp-server-message-application#readme",
   "dependencies": {
     "util": "^0.12.1",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   }
 }
